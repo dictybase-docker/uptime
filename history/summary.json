@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 302,
-    "timeWeek": 302,
-    "timeMonth": 302,
-    "timeYear": 302,
+    "time": 401,
+    "timeDay": 401,
+    "timeWeek": 401,
+    "timeMonth": 401,
+    "timeYear": 401,
     "dailyMinutesDown": {}
   },
   {
@@ -36,23 +36,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "DSR dev",
-    "url": "https://dictbase.dev/stockcenter",
-    "icon": "https://icons.duckduckgo.com/ip3/dictbase.dev.ico",
-    "slug": "dsr-dev",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-10-29": 0
-    }
+    "name": "DSC dev",
+    "url": "https://dictybase.dev/stockcenter",
+    "icon": "https://icons.duckduckgo.com/ip3/dictybase.dev.ico",
+    "slug": "dsc-dev",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 17,
+    "timeDay": 17,
+    "timeWeek": 17,
+    "timeMonth": 17,
+    "timeYear": 17,
+    "dailyMinutesDown": {}
   }
 ]
