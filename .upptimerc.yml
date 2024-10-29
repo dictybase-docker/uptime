@@ -7,6 +7,8 @@ sites:
     url: https://dictycr.org
   - name: DCR dev
     url: https://dictybase.dev
+  - name: DCR news pages 
+    url: https://dictybase.dev/news/show
   - name: DSC dev
     url: https://dictybase.dev/stockcenter
 
