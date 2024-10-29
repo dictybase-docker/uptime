@@ -7,8 +7,8 @@ sites:
     url: https://dictycr.org
   - name: DCR dev
     url: https://dictybase.dev
-  - name: DSR dev
-    url: https://dictbase.dev/stockcenter
+  - name: DSC dev
+    url: https://dictybase.dev/stockcenter
 
 status-website:
   name: DCR uptime
