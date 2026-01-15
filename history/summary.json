@@ -4,19 +4,19 @@
     "url": "https://dictycr.org",
     "icon": "https://icons.duckduckgo.com/ip3/dictycr.org.ico",
     "slug": "dcr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.99%",
     "time": 583,
-    "timeDay": 7973,
-    "timeWeek": 2423,
-    "timeMonth": 1135,
+    "timeDay": 5499,
+    "timeWeek": 2215,
+    "timeMonth": 1117,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2026-01-15": 1
+      "2026-01-15": 51
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://dictybase.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dictybase.dev.ico",
     "slug": "dcr-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.49%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.99%",
     "time": 69,
-    "timeDay": 7532,
-    "timeWeek": 1912,
-    "timeMonth": 503,
+    "timeDay": 5031,
+    "timeWeek": 1702,
+    "timeMonth": 488,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2026-01-15": 0
+      "2026-01-15": 51
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://dictybase.dev/news/show",
     "icon": "https://icons.duckduckgo.com/ip3/dictybase.dev.ico",
     "slug": "dcr-news-pages",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.49%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.99%",
     "time": 34,
-    "timeDay": 32,
-    "timeWeek": 36,
+    "timeDay": 30,
+    "timeWeek": 35,
     "timeMonth": 34,
     "timeYear": 34,
     "dailyMinutesDown": {
-      "2026-01-15": 0
+      "2026-01-15": 51
     }
   },
   {
