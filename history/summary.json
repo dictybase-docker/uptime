@@ -4,54 +4,60 @@
     "url": "https://dictycr.org",
     "icon": "https://icons.duckduckgo.com/ip3/dictycr.org.ico",
     "slug": "dcr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 549,
-    "timeDay": 586,
-    "timeWeek": 575,
-    "timeMonth": 676,
-    "timeYear": 550,
-    "dailyMinutesDown": {}
+    "time": 583,
+    "timeDay": 7973,
+    "timeWeek": 2423,
+    "timeMonth": 1135,
+    "timeYear": 592,
+    "dailyMinutesDown": {
+      "2026-01-15": 1
+    }
   },
   {
     "name": "DCR dev",
     "url": "https://dictybase.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dictybase.dev.ico",
     "slug": "dcr-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 34,
-    "timeDay": 33,
-    "timeWeek": 37,
-    "timeMonth": 34,
-    "timeYear": 33,
-    "dailyMinutesDown": {}
+    "time": 69,
+    "timeDay": 7532,
+    "timeWeek": 1912,
+    "timeMonth": 503,
+    "timeYear": 76,
+    "dailyMinutesDown": {
+      "2026-01-15": 0
+    }
   },
   {
     "name": "DCR news pages",
     "url": "https://dictybase.dev/news/show",
     "icon": "https://icons.duckduckgo.com/ip3/dictybase.dev.ico",
     "slug": "dcr-news-pages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 34,
-    "timeDay": 33,
-    "timeWeek": 37,
+    "timeDay": 32,
+    "timeWeek": 36,
     "timeMonth": 34,
     "timeYear": 34,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-15": 0
+    }
   },
   {
     "name": "DSC dev",
