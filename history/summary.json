@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dictycr.org.ico",
     "slug": "dcr",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 551,
-    "timeDay": 289,
-    "timeWeek": 465,
-    "timeMonth": 519,
+    "timeDay": 693,
+    "timeWeek": 507,
+    "timeMonth": 533,
     "timeYear": 555,
     "dailyMinutesDown": {
       "2026-01-15": 51
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 111,
-    "timeDay": 132,
-    "timeWeek": 182,
-    "timeMonth": 189,
-    "timeYear": 144,
+    "time": 112,
+    "timeDay": 279,
+    "timeWeek": 212,
+    "timeMonth": 193,
+    "timeYear": 145,
     "dailyMinutesDown": {
       "2026-01-15": 51
     }
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 80,
-    "timeDay": 160,
-    "timeWeek": 153,
-    "timeMonth": 194,
-    "timeYear": 99,
+    "timeDay": 250,
+    "timeWeek": 174,
+    "timeMonth": 193,
+    "timeYear": 100,
     "dailyMinutesDown": {
       "2026-01-15": 51
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 78,
-    "timeDay": 231,
-    "timeWeek": 185,
-    "timeMonth": 182,
-    "timeYear": 97,
+    "time": 79,
+    "timeDay": 239,
+    "timeWeek": 212,
+    "timeMonth": 185,
+    "timeYear": 98,
     "dailyMinutesDown": {}
   }
 ]
